@@ -3,12 +3,11 @@
   "id": "fightorflight",
   "version": "0.10.6",
   "name": "Cobblemon Fight or Flight Reborn Fabric",
-  "description": "Makes Cobblemon run away or fight back in response to a player attack or failed capture. Fork by LyquidQrystal.",
+  "description": "Makes Cobblemon run away or fight back in response to a player attack or failed capture. Recode done by LyquidQrystal.",
   "authors": [
     "rufia","LyquidQrystal"
   ],
   "contact": {
-    "homepage": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-fight-or-flight-reborn",
     "sources": "https://github.com/LyquidQrystal/fightorflight/"
   },
   "license": "MIT License",
